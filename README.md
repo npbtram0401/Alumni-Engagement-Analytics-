@@ -103,7 +103,7 @@ Step 4: Insights & Recommendations – Interpreted key findings to provide actio
 •	Continuously evaluate dashboard insights → refine strategy based on real performance data
 
 
-Note: You can refer to the attached file (Alumni Engagement Analytics_ Dashboard) to view the dashboards in more detail and better understand the visual insights presented in this project.
+⚡️ Note: You can refer to the attached file (Alumni Engagement Analytics_ Dashboard) to view the dashboards in more detail and better understand the visual insights presented in this project.
 
 
 
