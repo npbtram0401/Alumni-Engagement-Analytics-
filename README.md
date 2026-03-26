@@ -15,13 +15,13 @@ Step 3: Dashboard Development – Built interactive dashboards in Excel to visua
 Step 4: Insights & Recommendations – Interpreted key findings to provide actionable recommendations on content strategy, audience targeting, and optimal posting timing.
 
 # CRM Analysis – Key Insights
-	•	Tier 2 donors (£100–£499/year) are the largest contributor group → strong potential for upgrading to higher tiers
-	•	Donor base is highly concentrated in the UK (~90%) → opportunity to expand engagement with international alumni
-	•	Alumni aged 50+ show the highest contribution levels → indicates strong loyalty and financial capacity
-	•	Younger alumni segments are under-engaged → require long-term nurturing strategies
-	•	Majority of donors are employed → suggests stable income links to higher donation likelihood
-	•	No significant difference across professional sectors → donations are not industry-dependent
-	•	Peak login activity occurs mid-week (Tuesday & Thursday) → optimal timing for communication and campaigns
+•	Tier 2 donors (£100–£499/year) are the largest contributor group → strong potential for upgrading to higher tiers
+•	Donor base is highly concentrated in the UK (~90%) → opportunity to expand engagement with international alumni
+•	Alumni aged 50+ show the highest contribution levels → indicates strong loyalty and financial capacity
+•	Younger alumni segments are under-engaged → require long-term nurturing strategies
+•	Majority of donors are employed → suggests stable income links to higher donation likelihood
+•	No significant difference across professional sectors → donations are not industry-dependent
+•	Peak login activity occurs mid-week (Tuesday & Thursday) → optimal timing for communication and campaigns
 
 
 
