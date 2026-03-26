@@ -45,30 +45,47 @@ Step 4: Insights & Recommendations – Interpreted key findings to provide actio
 •	Peak posting times around 9 AM (local) and 3 AM (international reach) → effective for both local and global audiences
 
 Twitter Analysis – Key Insights
- <img width="468" height="126" alt="image" src="https://github.com/user-attachments/assets/93642e51-219a-43fd-a573-f5a04ff2cbd7" />
+<img width="468" height="126" alt="image" src="https://github.com/user-attachments/assets/93642e51-219a-43fd-a573-f5a04ff2cbd7" />
 
 # Actionable Recommendations
 •	Segment audiences using CRM data (age, location, employment) → deliver more personalised and relevant content
 
 •	Focus on UK-based alumni aged 50+ with tailored messages → highlight donation impact and long-term contribution value
-	•	Develop early engagement strategies for younger alumni → use relatable content (memes, short videos) to build long-term loyalty
-	•	Expand engagement with international alumni → create culturally relevant content and adjust posting times for different time zones
-	•	Prioritise retention-focused content → use emotional storytelling (e.g., “Thanks to you” campaigns) to strengthen alumni connection
-	•	Rework CSR content → align messaging with alumni values and real impact stories to improve performance
-	•	Continuously test acquisition and news themes → experiment with different formats and narratives
-	•	Optimise content format → prioritise photo-based posts and explore visual formats like carousels or infographics
-	•	Reduce reliance on paid ads → focus on high-quality organic content that resonates with the audience
-	•	Boost high-performing organic posts selectively → maximise reach efficiently
-	•	Optimise posting schedule:
-	•	Facebook → Monday & Wednesday, around 9 AM (local) and 3 AM (international)
-	•	Twitter → Tuesday to Thursday, especially Wednesday, at 8–9 AM and 2–3 PM
+
+•	Develop early engagement strategies for younger alumni → use relatable content (memes, short videos) to build long-term loyalty
+
+•	Expand engagement with international alumni → create culturally relevant content and adjust posting times for different time zones
+
+•	Prioritise retention-focused content → use emotional storytelling (e.g., “Thanks to you” campaigns) to strengthen alumni connection
+
+•	Rework CSR content → align messaging with alumni values and real impact stories to improve performance
+
+•	Continuously test acquisition and news themes → experiment with different formats and narratives
+
+•	Optimise content format → prioritise photo-based posts and explore visual formats like carousels or infographics
+
+•	Reduce reliance on paid ads → focus on high-quality organic content that resonates with the audience
+
+•	Boost high-performing organic posts selectively → maximise reach efficiently
+
+•	Optimise posting schedule:
+
+•	Facebook → Monday & Wednesday, around 9 AM (local) and 3 AM (international)
+
+•	Twitter → Tuesday to Thursday, especially Wednesday, at 8–9 AM and 2–3 PM
 → align posting with peak user activity for higher engagement
-	•	Improve Twitter conversion strategy → include clearer CTAs to turn engagement into followers
-	•	Encourage active engagement → design posts that prompt replies, shares, and discussions (not just passive clicks)
-	•	Leverage strong URL click behavior → optimise landing pages and ensure content aligns with user expectations
-	•	Track and link CRM with social media data → identify which donor segments engage with specific content
-	•	Add and monitor key KPIs → follower growth, engagement rate, and conversion metrics
-	•	Continuously evaluate dashboard insights → refine strategy based on real performance data
+
+•	Improve Twitter conversion strategy → include clearer CTAs to turn engagement into followers
+
+•	Encourage active engagement → design posts that prompt replies, shares, and discussions (not just passive clicks)
+
+•	Leverage strong URL click behavior → optimise landing pages and ensure content aligns with user expectations
+
+•	Track and link CRM with social media data → identify which donor segments engage with specific content
+
+•	Add and monitor key KPIs → follower growth, engagement rate, and conversion metrics
+
+•	Continuously evaluate dashboard insights → refine strategy based on real performance data
 
 
 
