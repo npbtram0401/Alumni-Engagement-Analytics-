@@ -48,6 +48,20 @@ Step 4: Insights & Recommendations – Interpreted key findings to provide actio
 
 <img width="468" height="126" alt="image" src="https://github.com/user-attachments/assets/93642e51-219a-43fd-a573-f5a04ff2cbd7" />
 
+•	Retention content generates the highest impressions and engagement → reinforces importance of relationship-focused messaging
+
+•	Mid-week (especially Wednesday) shows peak performance → aligns with user activity trends
+	
+•	Best posting times are 8–9 AM and 2–3 PM → optimal for maximizing visibility
+
+•	Significant decline in follower growth over time → content lacks conversion from viewers to followers
+
+•	Majority of engagement comes from passive actions (detail expands) → users are interested but not highly interactive
+
+•	URL clicks dominate interactions → strong call-to-action effectiveness
+
+•	Organic posts significantly outperform promoted posts → audience responds better to authentic content
+
 # Actionable Recommendations
 •	Segment audiences using CRM data (age, location, employment) → deliver more personalised and relevant content
 
@@ -87,6 +101,9 @@ Step 4: Insights & Recommendations – Interpreted key findings to provide actio
 •	Add and monitor key KPIs → follower growth, engagement rate, and conversion metrics
 
 •	Continuously evaluate dashboard insights → refine strategy based on real performance data
+
+
+Note: You can refer to the attached file (Alumni Engagement Analytics_ Dashboard) to view the dashboards in more detail and better understand the visual insights presented in this project.
 
 
 
