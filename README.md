@@ -44,7 +44,8 @@ Step 4: Insights & Recommendations – Interpreted key findings to provide actio
 
 •	Peak posting times around 9 AM (local) and 3 AM (international reach) → effective for both local and global audiences
 
-Twitter Analysis – Key Insights
+# Twitter Analysis – Key Insights
+
 <img width="468" height="126" alt="image" src="https://github.com/user-attachments/assets/93642e51-219a-43fd-a573-f5a04ff2cbd7" />
 
 # Actionable Recommendations
